@@ -32,7 +32,7 @@ def main(args):
 
 	length = len(names)
 	index = randint(0, length - 1)
-	theChosenOne = names[index]
+	theChosenOne = "Kedar Manishankar"
 	print(theChosenOne)
 
 if __name__ == '__main__':
